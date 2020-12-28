@@ -10,4 +10,4 @@
 - 🔗 Member of EDOC, PS Club(2020. 12 ~ ) 
 
 ### Status
-![Github Stats](https://github-readme-stats.vercel.app/api?YeonjuSeo=biud436&show_icons=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=YeonjuSeo&show_icons=true)
