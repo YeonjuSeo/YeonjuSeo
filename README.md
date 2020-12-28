@@ -10,4 +10,5 @@
 - 🔗 Member of EDOC, PS Club(2020. 12 ~ ) 
 
 ### Status
+![JS](https://img.shields.io/badge/Language-JavaScript-yellow) &nbsp; ![TS](https://img.shields.io/badge/Language-TypeScript-informational) &nbsp; ![React](https://img.shields.io/badge/FrameWork-React-9cf)</br></br>
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=YeonjuSeo&show_icons=true)
