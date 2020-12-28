@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Web Development, PS
 - 🌱 I’m currently learning JS, React, PS
-- 📫 How to reach me: tjduswn1219@gmail.com
+- 📫 How to reach me: &nbsp; [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tjduswn1219@gmail.com)](mailto:tjduswn1219@gmail.com)
 
 ### Experiences
 - ⛓ Member of Ewha-Chain, Blockchain Academy(2019. 03 ~ 08)
