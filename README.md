@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there, I'm Yeonju 👋
+🍕 Before we make conversation, let's make a piece of pizza 🍕
 
-<!--
-**YeonjuSeo/YeonjuSeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Web Development, PS
+- 🌱 I’m currently learning JS, React, PS
+- 📫 How to reach me: tjduswn1219@gmail.com
 
-Here are some ideas to get you started:
+### Experiences
+⛓ Member of Ewha-Chain, Blockchain Academy(2019. 03 ~ 08)
+🔗 Member of EDOC, PS Club(2020. 12 ~ )
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Status
+<a href="https://github.com/YeonjuSeo">
+  <img align="center" src="https://readmestatus.YeonjuSeo.ga/api?username=YeonjuSeo&include_all_commits=True&theme=korea&show_icons=true" />
+</a>
+<a href="https://github.com/YeonjuSeo">
+  <img align="center" src="https://readmestatus.YeonjuSeo.ga/api/top-langs/?username=YeonjuSeo&langs_count=10&layout=compact&theme=korea&show_icons=true" />
+</a>
