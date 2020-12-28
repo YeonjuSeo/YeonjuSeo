@@ -8,3 +8,6 @@
 ### Experiences
 - ⛓ Member of Ewha-Chain, Blockchain Academy(2019. 03 ~ 08)
 - 🔗 Member of EDOC, PS Club(2020. 12 ~ ) 
+
+### Status
+![Github Stats](https://github-readme-stats.vercel.app/api?YeonjuSeo=biud436&show_icons=true)
