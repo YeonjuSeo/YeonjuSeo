@@ -7,4 +7,4 @@
 
 ### Experiences
 - ⛓ Member of Ewha-Chain, Blockchain Academy(2019. 03 ~ 08)
-- 🔗 Member of EDOC, PS Club(2020. 12 ~ )
+- 🔗 Member of EDOC, PS Club(2020. 12 ~ ) 
