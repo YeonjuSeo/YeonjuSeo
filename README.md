@@ -1,4 +1,4 @@
-### Hi there, I'm Yeonju 👋  [![HitCount](http://hits.dwyl.com/YeonjuSeo/YeonjuSeo.svg)](http://hits.dwyl.com/YeonjuSeo/YeonjuSeo)
+### Hi there, I'm Yeonju 👋  &nbsp; [![HitCount](http://hits.dwyl.com/YeonjuSeo/YeonjuSeo.svg)](http://hits.dwyl.com/YeonjuSeo/YeonjuSeo)
 🍕 Before we make conversation, let's make a piece of pizza 🍕
 
 - 🔭 I’m currently working on Web Development, PS
