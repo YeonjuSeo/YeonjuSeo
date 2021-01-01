@@ -1,4 +1,4 @@
-### Hi there, I'm Yeonju 👋  &nbsp; [![HitCount](http://hits.dwyl.com/YeonjuSeo/YeonjuSeo.svg)](http://hits.dwyl.com/YeonjuSeo/YeonjuSeo)
+### Hi there, I'm Yeonju 👋  &nbsp; [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYeonjuSeo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 🍕 Before we make conversation, let's make a piece of pizza 🍕
 
 - 🔭 I’m currently working on Web Development, PS
