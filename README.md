@@ -12,4 +12,4 @@
 
 ### Status
 ![JS](https://img.shields.io/badge/Language-JavaScript-yellow) &nbsp; ![TS](https://img.shields.io/badge/Language-TypeScript-informational) &nbsp; ![React](https://img.shields.io/badge/FrameWork-React-9cf)</br></br>
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=merko)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YeonjuSeo&show_icons=true&theme=merko)
