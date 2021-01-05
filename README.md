@@ -6,8 +6,9 @@
 - 📫 How to reach me: &nbsp; [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tjduswn1219@gmail.com)](mailto:tjduswn1219@gmail.com)
 
 ### Experiences
-- ⛓ Member of Ewha-Chain, Blockchain Academy(2019. 03 ~ 08)
-- 🔗 Member of EDOC, PS Club(2020. 12 ~ ) 
+- ⛓ Member of Ewha-Chain, Blockchain Academy (2019. 03 ~ 08)
+- 🔗 Member of EDOC, PS Club (2020. 12 ~ ) 
+- 🛴 Developer of DegulDegul, Campus Delivery App (2021. 01 ~)
 
 ### Status
 ![JS](https://img.shields.io/badge/Language-JavaScript-yellow) &nbsp; ![TS](https://img.shields.io/badge/Language-TypeScript-informational) &nbsp; ![React](https://img.shields.io/badge/FrameWork-React-9cf)</br></br>
