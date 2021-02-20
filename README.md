@@ -1,4 +1,8 @@
-### Hi there, I'm Yeonju 👋  &nbsp; [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYeonjuSeo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+### Hi there, I'm Yeonju 👋 &nbsp; [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYeonjuSeo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+![핸드메이드](https://user-images.githubusercontent.com/56028436/108595681-8362b300-73c4-11eb-8fcf-476977a2d3ba.JPG)
+
 🍕 Before we make conversation, let's make a piece of pizza 🍕
 
 - 🔭 I’m currently working on `DegulDegul`
