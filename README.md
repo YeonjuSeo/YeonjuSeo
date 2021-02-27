@@ -13,6 +13,7 @@
 - ⛓ Member of Ewha-Chain, Blockchain Academy (2019. 03 ~ 08)
 - 🔗 Member of EDOC, PS Club (2020. 12 ~ ) 
 - 🛴 Developer of DegulDegul, Campus Delivery App (2021. 01 ~)
+- 📝 FE Developer of ML Team of YAPP (2021. 02 ~)
 
 ### Status
 ![JS](https://img.shields.io/badge/Language-JavaScript-yellow) &nbsp; ![TS](https://img.shields.io/badge/Language-TypeScript-informational) &nbsp; ![React](https://img.shields.io/badge/FrameWork-React-9cf) &nbsp; ![RN](https://img.shields.io/badge/FrameWork-React%20Native-blueviolet)</br></br>
