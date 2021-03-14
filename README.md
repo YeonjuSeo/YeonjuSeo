@@ -12,7 +12,7 @@
 ### Experiences
 - ⛓ Member of Ewha-Chain, Blockchain Academy (2019. 03 ~ 08)
 - 🔗 Member of EDOC, PS Club (2020. 12 ~ ) 
-- 🛴 Developer of DegulDegul, Campus Delivery App (2021. 01 ~)
+- 🛴 Developer of DegulDegul, Campus Delivery App (2021. 01 ~ 03)
 - 📝 FE Developer of ML Team of YAPP (2021. 02 ~)
 
 ### Status
