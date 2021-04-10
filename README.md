@@ -17,4 +17,4 @@
 
 ### Status
 ![JS](https://img.shields.io/badge/Language-JavaScript-yellow) &nbsp; ![TS](https://img.shields.io/badge/Language-TypeScript-informational) &nbsp; ![React](https://img.shields.io/badge/FrameWork-React-9cf) &nbsp; ![RN](https://img.shields.io/badge/FrameWork-React%20Native-blueviolet)</br></br>
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YeonjuSeo&show_icons=true&theme=merko)
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kados22)](https://solved.ac/kados22)<br/>
