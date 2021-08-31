@@ -5,15 +5,15 @@
 
 🍕 Before we make conversation, let's make a piece of pizza 🍕
 
-- 🔭 I’m currently working on `STUDEEP__YAPP`
-- 🌱 I’m currently learning `JS`, `React`, `PS`
+- 🔭 I’m currently working on `PieceOfMood`
+- 🌱 I’m currently learning `React`, `Typescript`, `TDD`
 - 📫 How to reach me: &nbsp; [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tjduswn1219@gmail.com)](mailto:tjduswn1219@gmail.com)
 
 ### Experiences
 - ⛓ Member of Ewha-Chain, Blockchain Academy (2019. 03 ~ 08)
 - 🔗 Member of EDOC, PS Club (2020. 12 ~ ) 
 - 🛴 Developer of DegulDegul, Campus Delivery App (2021. 01 ~ 03)
-- 📝 FE Developer of ML Team of YAPP (2021. 02 ~)
+- 📝 FE Developer of ML Team of YAPP (2021. 02 ~ 2021. 07)
 
 ### Status
 ![JS](https://img.shields.io/badge/Language-JavaScript-yellow) &nbsp; ![TS](https://img.shields.io/badge/Language-TypeScript-informational) &nbsp; ![React](https://img.shields.io/badge/FrameWork-React-9cf) &nbsp; ![RN](https://img.shields.io/badge/FrameWork-React%20Native-blueviolet)</br></br>
