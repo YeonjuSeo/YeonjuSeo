@@ -14,6 +14,8 @@
 - 🔗 Member of EDOC, PS Club (2020. 12 ~ ) 
 - 🛴 Developer of DegulDegul, Campus Delivery App (2021. 01 ~ 03)
 - 📝 FE Developer of ML Team of YAPP (2021. 02 ~ 2021. 07)
+- 💡 FE Developer of _PieceOfMood_ (2021. 07 ~ 2021. 12)
+- 🧃 SW Maestro 13th (2022. 04 ~ )
 
 ### Status
 ![JS](https://img.shields.io/badge/Language-JavaScript-yellow) &nbsp; ![TS](https://img.shields.io/badge/Language-TypeScript-informational) &nbsp; ![React](https://img.shields.io/badge/FrameWork-React-9cf) &nbsp; ![RN](https://img.shields.io/badge/FrameWork-React%20Native-blueviolet)</br></br>
