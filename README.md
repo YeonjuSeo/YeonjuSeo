@@ -18,5 +18,5 @@
 - 🧃 SW Maestro 13th (2022. 04 ~ )
 
 ### Status
-![JS](https://img.shields.io/badge/Language-JavaScript-yellow) &nbsp; ![TS](https://img.shields.io/badge/Language-TypeScript-informational) &nbsp; ![React](https://img.shields.io/badge/FrameWork-React-9cf) &nbsp; ![RN](https://img.shields.io/badge/FrameWork-React%20Native-blueviolet)</br></br>
+![[TS](https://img.shields.io/badge/Language-TypeScript-informational)](https://img.shields.io/badge/-Typescript-green) &nbsp; ![[React](https://img.shields.io/badge/FrameWork-React-9cf)](https://img.shields.io/badge/-React-blueviolet) &nbsp; ![[RN](https://img.shields.io/badge/FrameWork-React%20Native-blueviolet)](https://img.shields.io/badge/-React%20Native-orange) &nbsp; ![[Dart](https://img.shields.io/badge/-Dart-blue)](https://img.shields.io/badge/-Dart-blue) &nbsp; ![[Flutter](https://img.shields.io/badge/-Flutter-9cf)](https://img.shields.io/badge/-Flutter-9cf) </br></br>
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kados22)](https://solved.ac/kados22)<br/>
