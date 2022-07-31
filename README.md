@@ -5,8 +5,8 @@
 
 🍕 Before we make conversation, let's make a piece of pizza 🍕
 
-- 🔭 I’m currently working on `PieceOfMood`
-- 🌱 I’m currently learning `React`, `Typescript`, `TDD`
+- 🔭 I’m currently working on `Waki`
+- 🌱 I’m currently learning `Flutter`, `Dart`, `Agile`
 - 📫 How to reach me: &nbsp; [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tjduswn1219@gmail.com)](mailto:tjduswn1219@gmail.com)
 
 ### Experiences
