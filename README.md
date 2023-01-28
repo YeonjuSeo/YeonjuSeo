@@ -15,7 +15,7 @@
 - 🛴 Developer of DegulDegul, Campus Delivery App (2021. 01 ~ 03)
 - 📝 FE Developer of ML Team of YAPP (2021. 02 ~ 2021. 07)
 - 💡 FE Developer of _PieceOfMood_ (2021. 07 ~ 2021. 12)
-- 🧃 SW Maestro 13th (2022. 04 ~ )
+- 🧃 SW Maestro 13th (2022. 04 ~ 2022. 11)
 
 ### Status
 ![[TS](https://img.shields.io/badge/Language-TypeScript-informational)](https://img.shields.io/badge/-Typescript-green) &nbsp; ![[React](https://img.shields.io/badge/FrameWork-React-9cf)](https://img.shields.io/badge/-React-blueviolet) &nbsp; ![[RN](https://img.shields.io/badge/FrameWork-React%20Native-blueviolet)](https://img.shields.io/badge/-React%20Native-orange) &nbsp; ![[Dart](https://img.shields.io/badge/-Dart-blue)](https://img.shields.io/badge/-Dart-blue) &nbsp; ![[Flutter](https://img.shields.io/badge/-Flutter-9cf)](https://img.shields.io/badge/-Flutter-9cf) </br></br>
