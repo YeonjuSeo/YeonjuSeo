@@ -5,13 +5,13 @@
 
 🍕 Before we make conversation, let's make a piece of pizza 🍕
 
-- 🔭 I’m currently working on `Waki`
-- 🌱 I’m currently learning `Flutter`, `Dart`, `Agile`
+- 🔭 I’m currently working on `Ponitor`
+- 🌱 I’m currently learning `JavaScript`, `TypeScript`, `React`
 - 📫 How to reach me: &nbsp; [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tjduswn1219@gmail.com)](mailto:tjduswn1219@gmail.com)
 
 ### Experiences
 - ⛓ Member of Ewha-Chain, Blockchain Academy (2019. 03 ~ 08)
-- 🔗 Member of EDOC, PS Club (2020. 12 ~ ) 
+- 🔗 Member of EDOC, PS Club (2020. 12 ~ 2022.02) 
 - 🛴 Developer of DegulDegul, Campus Delivery App (2021. 01 ~ 03)
 - 📝 FE Developer of ML Team of YAPP (2021. 02 ~ 2021. 07)
 - 💡 FE Developer of _PieceOfMood_ (2021. 07 ~ 2021. 12)
